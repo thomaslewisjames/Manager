@@ -1,2 +1,2 @@
 # Manager
-Filesystem suite for all your modding needs
+Filesystem loader for all your modding needs
