@@ -1,2 +1,2 @@
 # Manager
-Filesystem editor for all your modding needs
+Filesystem editor for your modding needs
